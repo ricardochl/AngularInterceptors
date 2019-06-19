@@ -1,0 +1,16 @@
+<div>
+  <h1>Loader</h1>
+  <button
+    mat-raised-button
+    color="primary"
+    (click)="getData()"
+    [disabled]="loaderService.showLoader"
+  >
+    Get Data
+  </button>
+  <div>
+    <h3>Response</h3>
+    <pre>{{ response | json }}</pre>
+    <div *ngIf="loaderService.showLoader" class="loader"></div>
+  </div>
+</div>

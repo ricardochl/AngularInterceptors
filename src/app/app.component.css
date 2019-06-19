@@ -1,0 +1,10 @@
+.text-center{
+    text-align: center;
+}
+
+.fill-remaining-space {
+    flex: 1 1 auto;
+}
+main{
+    padding: 1rem;
+}

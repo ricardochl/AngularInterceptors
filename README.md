@@ -1,4 +1,5 @@
 # AngularInterceptors
+<<<<<<< HEAD
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.3.
 
@@ -25,3 +26,6 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+Meetup Angular Costa Rica
+>>>>>>> c59610ba065a63e3e2b02a197beea9c48675e1db
